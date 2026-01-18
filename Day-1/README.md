@@ -29,4 +29,6 @@ A success message confirming the Snowflake connection along with the current Sno
 
 ## Screenshot
 
-![Day 1 Output](../screenshots/day01_success.png)
+![Day01_Success](screenshots/Day01_Success.png)
+
+
