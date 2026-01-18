@@ -28,5 +28,3 @@ No credentials or secrets are stored in the code or repository.
 A success message confirming the Snowflake connection along with the current Snowflake version.
 
 
-
-
