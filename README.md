@@ -3,6 +3,9 @@ Building hands-on AI applications with Streamlit and Snowflake as part of the #3
 
 This repository documents my journey through the **#30DaysOfAI** challenge by Streamlit.
 
+ - 💻 Code: [github.com/Aryan536/30-Days-of-AI](https://github.com/Aryan536/30-Days-of-AI-Streamlit-Snowflake)
+ - 🕹️ Instructions: [30daysofai.streamlit.app](https://30daysofai.streamlit.app)
+
 Over 30 days, I’m building hands-on AI-powered applications using:
 
 - **Streamlit** for interactive UIs
