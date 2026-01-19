@@ -29,5 +29,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 ## Progress
 
 - ✅ Day 01: Connect Streamlit to Snowflake
+- ✅ Day 02: Run a LLM (Cortex AI) directly within Snowflake
 
 More coming soon 🚀
