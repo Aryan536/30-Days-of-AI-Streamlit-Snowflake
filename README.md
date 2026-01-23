@@ -41,6 +41,7 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 11: Displaying Chat History.
 - ✅ Day 12: Streaming Responses.
 - ✅ Day 13: Adding a System Prompt.
+- ✅ Day 14: Adding Avatars and Error Handling.
 
 
 More coming soon 🚀
