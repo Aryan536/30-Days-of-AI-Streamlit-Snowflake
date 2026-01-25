@@ -26,6 +26,36 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - Understand enterprise tools like Snowflake
 - Build strong, resume-ready projects
 
+
+---
+
+## 🧭 Challenge Roadmap
+
+### 🔹 Week 1 – Foundations
+- Environment setup
+- Snowflake connectivity
+- LLM basics
+- Streaming and caching
+
+### 🔹 Week 2 – Conversational AI
+- Chat interfaces
+- Session state handling
+- Context-aware conversations
+
+### 🔹 Week 3 – RAG Applications
+- Document ingestion
+- Vector embeddings
+- Retrieval pipelines
+- Knowledge-grounded responses
+
+### 🔹 Week 4 – Advanced AI Systems
+- Multimodal AI
+- Autonomous agents
+- End-to-end AI workflows
+
+---
+
+
 ## Progress
 
 - ✅ Day 01: Connect Streamlit to Snowflake
