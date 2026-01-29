@@ -72,6 +72,11 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 12: Streaming Responses.
 - ✅ Day 13: Adding a System Prompt.
 - ✅ Day 14: Adding Avatars and Error Handling.
-
+- ✅ Day 15: Model Comparison Arena.
+- ✅ Day 16: Batch Document Text Extractor for RAG.
+- ✅ Day 17: Loading and Transforming Customer Reviews for RAG.
+- ✅ Day 18: Generating Embeddings for Customer Reviews.
+- ✅ Day 19: Creating Cortex Search for Customer Reviews.
+- ✅ Day 20: Querying Cortex Search.
 
 More coming soon 🚀
