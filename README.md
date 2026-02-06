@@ -78,5 +78,15 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 18: Generating Embeddings for Customer Reviews.
 - ✅ Day 19: Creating Cortex Search for Customer Reviews.
 - ✅ Day 20: Querying Cortex Search.
+- ✅ Day 21: RAG with Cortex Search.
+- ✅ Day 22: Chat with Your Documents.
+- ✅ Day 23: LLM Evaluation & AI Observability.
+- ✅ Day 24: Working with Images (Multimodality).
+- ✅ Day 25: Voice Interface.
+- ✅ Day 26: Introduction to Cortex Agents.
+- ✅ Day 27: Multi-Tool Agent Orchestration.
+- ✅ Day 28: Building Apps with AI Assistants using AGENTS.md.
+- ✅ Day 29: LangChain Basics.
+- ✅ Day 30: Structured Output with Pydantic.
 
-More coming soon 🚀
+
